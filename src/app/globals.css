@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@variant dark (&:where(.dark, .dark *));
+
 :root {
   --background: #fafafa;
   --foreground: #171717;
@@ -12,11 +14,9 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
 }
 
 body {
@@ -30,9 +30,7 @@ body {
   color: #fafafa;
 }
 
-@media (prefers-color-scheme: dark) {
-  ::selection {
-    background-color: #ededed;
-    color: #171717;
-  }
+.dark ::selection {
+  background-color: #ededed;
+  color: #171717;
 }
