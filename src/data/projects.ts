@@ -35,4 +35,17 @@ export const projects: Project[] = [
     url: "https://clicker-game.thiagososenke.com",
     logo: "/logo-clicker-game.svg",
   },
+  {
+    name: "Stranger Things",
+    slug: "stranger-things",
+    description: "Proyecto inspirado en Stranger Things.",
+    url: "https://stranger-things.thiagososenke.com",
+    logo: "/logo-stranger-things.png",
+  },
+  {
+    name: "I made this to try something",
+    slug: "made-this-to-try",
+    description: "Experimento web para probar ideas y tecnologias.",
+    url: "https://made-this-to-try.thiagososenke.com",
+  },
 ];

@@ -25,6 +25,10 @@ const translations = {
           "Experiencia narrativa inmersiva con sonido y visuales.",
         "clicker-game":
           "Juego clicker adictivo con mecanicas de progresion.",
+        "stranger-things":
+          "Proyecto inspirado en Stranger Things.",
+        "made-this-to-try":
+          "Experimento web para probar ideas y tecnologias.",
       },
     },
     about: {
@@ -101,6 +105,10 @@ const translations = {
           "Immersive narrative experience with sound and visuals.",
         "clicker-game":
           "Addictive clicker game with progression mechanics.",
+        "stranger-things":
+          "Project inspired by Stranger Things.",
+        "made-this-to-try":
+          "Web experiment to try ideas and technologies.",
       },
     },
     about: {
