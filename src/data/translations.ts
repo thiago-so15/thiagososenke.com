@@ -27,7 +27,7 @@ const translations = {
           "Juego clicker adictivo con mecanicas de progresion.",
         "stranger-things":
           "Proyecto inspirado en Stranger Things.",
-        "made-this-to-try":
+        "i-made-this-to-try-something":
           "Experimento web para probar ideas y tecnologias.",
       },
     },
@@ -107,7 +107,7 @@ const translations = {
           "Addictive clicker game with progression mechanics.",
         "stranger-things":
           "Project inspired by Stranger Things.",
-        "made-this-to-try":
+        "i-made-this-to-try-something":
           "Web experiment to try ideas and technologies.",
       },
     },

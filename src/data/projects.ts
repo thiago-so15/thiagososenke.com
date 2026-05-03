@@ -44,8 +44,9 @@ export const projects: Project[] = [
   },
   {
     name: "I made this to try something",
-    slug: "made-this-to-try",
+    slug: "i-made-this-to-try-something",
     description: "Experimento web para probar ideas y tecnologias.",
-    url: "https://made-this-to-try.thiagososenke.com",
+    url: "https://i-made-this-to-try-something.thiagososenke.com",
+    logo: "/logo-i-made-this-to-try-something.svg",
   },
 ];
